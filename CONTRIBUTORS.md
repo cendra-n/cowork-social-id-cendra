@@ -23,6 +23,8 @@ Formato:
 - **Ana García** - [@anagarcia](https://github.com/anagarcia) - FE-01: Tema Oscuro
 -->
 
+- **José Hernández** - [@JrHk112](https://github.com/JrHk112) - FE-01, FE-02, FE-03
+
 ### Backend Developers
 
 <!-- Ejemplo:
