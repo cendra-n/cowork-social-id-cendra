@@ -50,6 +50,3 @@ coverage/
 *.xlsx
 *.db
 *.sqlite
-
-# Custom Ignore
-**/package-lock.json
