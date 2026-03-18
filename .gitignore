@@ -53,3 +53,24 @@ coverage/
 
 # Custom Ignore
 **/package-lock.json
+# --- JAVA & MAVEN (Nadia) ---
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.pom.sha1
+.mtj.tmp/
+.gradle/
+build/
+
+# --- IDEs Adicionales ---
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+
+# --- IA Tools ---
+.claude/
+.copilot/
